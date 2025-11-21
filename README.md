@@ -6,7 +6,7 @@ First, run the development server:
 
 ```bash
 1) Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-2) npm install
+2) npm install or npm install --force
 3) npm start
 ```
 
